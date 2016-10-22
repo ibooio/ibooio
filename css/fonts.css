@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Audiowide';
+  src:
+       url('fonts/Audiowide/Audiowide-Regular.ttf') format('truetype'),
+       url('fonts/Audiowide/Audiowide-Regular.woff') format('woff')
+}
+@font-face {
+  font-family: 'Rancho';
+  src:
+       url('fonts/rancho/rancho-regular.ttf') format('truetype'),
+       url('fonts/rancho/rancho-regular.woff') format('woff')
+}

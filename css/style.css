@@ -1,0 +1,74 @@
+html, body{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #ddd;
+	color: #111;
+}
+
+a{
+	font-weight: bold;
+	color: #ddd;
+	text-decoration: none;
+}
+
+.title{
+	font-weight: bold;
+	border-bottom: 1px solid #999;
+	margin-bottom: .1em;
+	max-width: 500px;
+	margin: 0 auto;
+}
+
+#work{
+	margin-top: 4em;
+}
+
+.daialab{
+	font-family: Audiowide;
+	color: #BB0F41;
+	font-size: 1.8em;
+}
+
+.indary{
+	font-family: Rancho;
+	color: #FF5555;
+	font-size: 2em;
+}
+
+#social{
+	background-color: #333;
+	color:#ddd;
+	margin-top: 1.5em;
+	padding-bottom: 1em;
+}
+
+.linkedin-square, .twitter-square, .facebook-square, .github-square{
+	color: #ccc
+}
+
+.linkedin-square:hover{
+	color: #0274B3;
+}
+
+.twitter-square:hover{
+	color: #5EA9DD;
+}
+
+.facebook-square:hover{
+	color: #3765A3;
+}
+.github-square:hover{
+	color: #0D2636;
+}
+
+
+footer{
+	margin: 0 auto;
+	margin-top: 2em;
+	font-weight: bold;
+	max-width: 250px;
+	border-top: 1px solid #999;
+
+}
